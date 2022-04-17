@@ -1,0 +1,12 @@
+#i1{
+    background-color: blue;
+}
+#add{
+    background-color: deepskyblue;
+}
+#w1{
+    background-color: maroon;
+}
+body{
+    background-image: linear-gradient(red, blue);
+}
